@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangxiaofeid/jsMonitor.git"
+    "url": "git+https://github.com/wangxiaofeid/jsmonitor.git"
   },
   "author": "xiaofei.wang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wangxiaofeid/jsMonitor/issues"
+    "url": "https://github.com/wangxiaofeid/jsmonitor/issues"
   },
-  "homepage": "https://github.com/wangxiaofeid/jsMonitor#readme",
+  "homepage": "https://github.com/wangxiaofeid/jsmonitor#readme",
   "dependencies": {
   },
   "devDependencies": {
